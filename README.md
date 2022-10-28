@@ -1,0 +1,2 @@
+# my_japan_radio_weather_map
+自作のラジオ天気図用紙
